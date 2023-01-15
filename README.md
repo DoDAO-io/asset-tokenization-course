@@ -3,8 +3,8 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
 
  ---
 
- ## Rewarding Contributors in DAOs
- Learn how to reward contributors in DAOs by looking at case studies of some other DAOs, and also tool that enable rewarding contributors
+ ## Asset Tokenization
+ This course gives introduction to asset tokenization and also covers some of the platforms that can be used for the same
 
  
  ## Description
