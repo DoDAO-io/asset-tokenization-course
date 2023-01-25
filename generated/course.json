@@ -2,7 +2,7 @@
   "key": "asset-tokenization",
   "title": "Asset Tokenization",
   "summary": "This course gives introduction to asset tokenization and also covers some of the platforms that can be used for the same\n",
-  "details": "In this course we first ....",
+  "details": "# Coming Soon\nThis course will be release in next two weeks",
   "duration": "30 mins - 1 hour",
   "highlights": [
     "Introduction"
@@ -22,5 +22,9 @@
       "readings": [],
       "summaries": []
     }
-  ]
+  ],
+  "topicConfig": {
+    "showExplanations": false,
+    "showHints": false
+  }
 }

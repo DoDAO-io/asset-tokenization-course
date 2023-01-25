@@ -1,19 +1,24 @@
 title: Asset Tokenization
 key: asset-tokenization
 summary: >
-  This course gives introduction to asset tokenization and also covers some of the platforms that
-  can be used for the same
+  This course gives introduction to asset tokenization and also covers some of
+  the platforms that can be used for the same
 highlights:
   - Introduction
 publishStatus: Live
-thumbnail: https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/asset_tokenization_course.png
-details: >-
-  In this course we first ....
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/asset_tokenization_course.png
+details: |-
+  # Coming Soon
+  This course will be release in next two weeks
 duration: 30 mins - 1 hour
 topics:
   - key: intoduction
     title: Intoduction
-    details: >+
+    details: |
       Asset Tokenization
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
+topicConfig:
+  showExplanations: false
+  showHints: false
