@@ -17,7 +17,14 @@
       "key": "intoduction",
       "details": "Asset Tokenization\n",
       "order": 0,
-      "explanations": [],
+      "explanations": [
+        {
+          "key": "what-is-asset-tokenization",
+          "shortTitle": "What is Tokenization",
+          "details": "What is Asset Tokenization?\n\nWhat is Asset Tokenization?\n\nWhat is Asset Tokenization?\n\nWhat is Asset Tokenization?\n\nWhat is Asset Tokenization?",
+          "title": "What is Asset Tokenization?"
+        }
+      ],
       "questions": [],
       "readings": [],
       "summaries": []

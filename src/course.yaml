@@ -17,6 +17,7 @@ topics:
     title: Intoduction
     details: |
       Asset Tokenization
+    explanations: intoduction.yaml
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
