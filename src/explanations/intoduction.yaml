@@ -2,17 +2,26 @@
   title: What is Asset Tokenization?
   shortTitle: What is Tokenization
   details: >
+    A token is a digital unit of cryptocurrency that is either used as a
+    specific asset or it represents a particular use on the blockchain. Tokens
+    can have multiple use cases but the most common ones are as security,
+    utility or governance tokens. 
+
+
     Asset tokenization refers to the process of creating a digital token that
     represents a physical or digital asset, such as real estate, artwork, or
-    even company shares, on a blockchain network. This token can then be bought,
-    sold, and traded like any other cryptocurrency, and can also enable
-    fractional ownership of assets, making it more accessible to a wider range
-    of investors. Tokenization can also enable smart contract functionality,
-    which can automate the process of buying and selling assets, and can also
-    provide a tamper-proof and transparent record of ownership.
+    even company shares, on a blockchain network. 
 
 
-    ## Examples
+    This token can then be bought, sold, and traded like any other
+    cryptocurrency, and can also enable fractional ownership of assets, making
+    it more accessible to a wider range of investors. Tokenization can also
+    enable smart contract functionality, which can automate the process of
+    buying and selling assets, and can also provide a tamper-proof and
+    transparent record of ownership.
+
+
+    ## Use Cases of Tokenization
 
     There are many examples of tokenized assets, some of which include:
 
