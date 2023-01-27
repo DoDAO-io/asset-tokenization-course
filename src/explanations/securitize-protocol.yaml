@@ -125,8 +125,19 @@
     -
     https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How+to+onboard+a+TA.pdf
 - key: token-creation
+  title: Token Creation
   shortTitle: Token Creation
   details: >
+    Rules of creation of tokens are implemented in a smart contract and then
+    this smart contract is deployed to a blockchain. 
+
+
+
+    ## Token Creation
+
+    Securitize offers a lot of flexibility towards 
+
+
     ### Determine the Blockchain
 
     Securitize has created integrations with  various blockchains like Ethereum,
@@ -156,7 +167,6 @@
     investor. To facilitate the process, your Securitize Client Success Manager
     will complete the issuance for you via the Issuer Portal. Your investors are
     notified when the tokens are issued.
-  title: Token Creation
 - key: investors-how-can-they-use-securitize
   shortTitle: Investors
   details: >
