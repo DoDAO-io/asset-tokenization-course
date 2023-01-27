@@ -1,7 +1,7 @@
 - key: what-is-securitize
   title: What is Securitize
   shortTitle: What is Securitize
-  details: >
+  details: >-
     Securitize is a platform that helps you automate your compliance using smart
     contracts. This way, only transfers between KYC verified accounts are
     executed, and instant payouts and distributions are made possible.
@@ -12,7 +12,7 @@
     regulations, so companies can focus solely on running their business. 
 
 
-    **Issuer Portal**
+    ### Issuer Portal
 
     Companies  will be given login access to a digital interface that is
     customized to manage their cap-table, track token ownership, communicate
@@ -23,7 +23,7 @@
     / capital raise.
 
 
-    **Investor Dashboard**
+    ### Investor Dashboard
 
     Customized with your brand assets, investors will have access to relevant
     information about your token, your company, and to manage any tokens they
