@@ -62,3 +62,27 @@
     will complete the issuance for you via the Issuer Portal. Your investors are
     notified when the tokens are issued.
   title: Token Creation
+- key: investors-how-can-they-use-securitize
+  shortTitle: Investors
+  details: >
+    **Investor Dashboard** -  Investors will have access to info that is
+    relevant about the token, company and how to manage any tokens they hold as
+    a shareholder. Companies can edit and add content on this page anytime you
+    want, including images, videos and reports.
+
+    If an investor hasn't added a personal wallet to their investor dashboard,
+    Securitize will continue to monitor and record their shares using
+    traditional book-entry methods.
+     
+    Transfer Agent services can help manage the lifecycle of your token, from
+    payouts and distribution to liquidity and downstream investor challenges.
+    Securitize helps to  navigate challenges such as death, divorce, and lost
+    digital asset wallet keys. 
+     
+    The Issuer Portal makes it easy to manage the distribution of dividends and
+    other payouts, with an accurate overview of your past and current cap table.
+    If tokens are stolen or lost, Digital Transfer Agent can easily destroy them
+    and reissue the corresponding tokens to a new wallet that the investor
+    provides. Investors will be able to keep track of this via your Issuer
+    Portal.
+  title: Investors - How can they use Securitize?
