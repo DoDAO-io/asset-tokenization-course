@@ -47,6 +47,15 @@
       "questions": [],
       "readings": [],
       "summaries": []
+    },
+    {
+      "key": "securitize-protocol",
+      "title": "Securitize Protocol",
+      "details": "Securitize is a platform that helps you automate your compliance using smart contracts. This way, only transfers between KYC verified accounts are executed, and instant payouts and distributions are made possible. Securitize is the perfect solution for companies looking to tokenize assets as part of a capital raise. They manage the entire process from legal setup and valuation, to auditing and investor onboarding, tokenization and cap table management. It ensures that the entire process is compliant with regulations, so companies can focus solely on running their business. \n",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ],
   "topicConfig": {
