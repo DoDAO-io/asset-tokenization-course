@@ -29,3 +29,36 @@
     information about your token, your company, and to manage any tokens they
     hold as a shareholder. You have access to edit and add content to this page
     at any time, including imagery, videos and reports. 
+- key: token-creation
+  shortTitle: Token Creation
+  details: >
+    ### Determine the Blockchain
+
+    Securitize has created integrations with  various blockchains like Ethereum,
+    Algorand and Avalanche. They work with the projects to identify the most
+    appropriate blockchain for their tokenization, taking into account factors
+    such as gas fees, interoperability with the ecosystem . The Digital Security
+    protocol is designed to automate and enforce compliance by, for example,
+    only allowing transfers between KYC'd - whitelisted, and verified wallets.
+
+
+    ### Define the Smart Contract
+
+    Before tokenizing an asset or security, it’s important to establish what
+    rights will be given to shareholders (i.e. voting rights), how many tokens
+    will be issued and what compliance requirements and legal limitations, such
+    as jurisdictional restrictions, the digital asset should include. Once these
+    conditions have been defined, they set up the smart contracts for the tokens
+    and introduce the configuration in the Securitize Control Panel, which is
+    linked to the company’s Issuer Portal.
+
+
+    ### Issuance of Tokens 
+
+    Once an investment round has completed and the full cap-table has been
+    uploaded to the Issuer Panel, Securitize will deploy the smart contracts.
+    Once the smart contracts are deployed, the tokens can be issued to each
+    investor. To facilitate the process, your Securitize Client Success Manager
+    will complete the issuance for you via the Issuer Portal. Your investors are
+    notified when the tokens are issued.
+  title: Token Creation
