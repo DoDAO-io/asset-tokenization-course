@@ -150,11 +150,11 @@
 
     1. **Determine the Blockchain** - Securitize is blockchain agnostic, which
     means they have created integrations with multiple different blockchains in
-    order to be able to work with a variety of projects. They work with the
-    projects to identify the most appropriate blockchain for their tokenization
-    by considering various factors such as gas fees and interoperability with
-    the ecosystem. By doing this, they are able to provide each project with the
-    best possible solution for their needs.
+    order to work with a variety of projects. They work with the projects to
+    identify the most appropriate blockchain for their tokenization by
+    considering various factors such as gas fees and interoperability with the
+    ecosystem. By doing this, they can provide each project with the best
+    possible solution for their needs.
 
 
     2. **Define the Smart Contract** - Before tokenizing an asset or security,
