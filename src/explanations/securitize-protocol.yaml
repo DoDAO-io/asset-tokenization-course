@@ -144,7 +144,7 @@
     Securitize:
 
 
-    ### Determine the Blockchain
+    #### Determine the Blockchain
 
     Securitize is blockchain agnostic, which means they have created
     integrations with multiple different blockchains in order to be able to work
@@ -155,7 +155,7 @@
     their needs.
 
 
-    ### Define the Smart Contract
+    #### Define the Smart Contract
 
     Before tokenizing an asset or security, it’s crucial to establish what
     rights will be given to shareholders (i.e. voting rights), how many tokens
