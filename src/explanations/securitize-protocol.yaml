@@ -1,7 +1,7 @@
 - key: what-is-securitize
   title: What is Securitize
   shortTitle: What is Securitize
-  details: >-
+  details: >+
     Securitize is an industry-renowned provider of a digital all-inclusive
     product that uses blockchain technology to make raising money less expensive
     and more straightforward, conforming to all compliance standards. The firm's
@@ -43,16 +43,6 @@
     Securities, and Alternative Assets.
 
 
-
-    References
-
-    -  https://securitize.io/explore-our-all-in-one-solution
-
-    -
-    https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How-to-Tokenize+Your+Asset+%5Bincl+end-to-end%5D+.pdf
-
-    -
-    https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How+to+onboard+a+TA.pdf
 - key: token-creation
   title: Token Creation
   shortTitle: Token Lifecycle
