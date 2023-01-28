@@ -120,41 +120,44 @@
     -
     https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How-to-Tokenize+Your+Asset+%5Bincl+end-to-end%5D+.pdf
 - key: primary-and-secondary-markets
-  shortTitle: Market Types
-  details: >
-    Earlier, only accredited or institutional investors were able to invest in
-    companies that were not publicly traded on stock exchanges. If such private
-    companies needed to raise funds, they had to issue debt or equity to these
-    accredited investors. However, this created a loophole in the investing
-    process, as these private companies were not open  to offer any stake in the
-    business to the general public. 
-
-
-    This changed with the introduction of crowdfunding, which allows anyone to
-    invest in a company in return for equity. However, the stake in private
-    companies can only be diluted if the company is listed on a stock exchange
-    or acquired by another company. This means that the invested funds can be
-    locked up for a long period of time. 
-
-
-    Blockchain technology provides a solution to this by allowing private
-    companies to tokenize their equity and offer those tokens to investors
-    through crowdfunding or offering them on blockchain protocols. These tokens
-    can then easily be traded on secondary markets, giving investors the freedom
-    to trade their investment at any time they want.
-
-
-    Securitize offers primary and secondary offerings to allow anyone to invest
-    in private companies and other major funds (eg:- Art funds).
-
-    The main difference between primary and secondary offerings on securitize is
-    that primary market offerings have a minimum lock-up period of one year, and
-    investors get voting rights in decisions related to the particular fund. In
-    contrast, secondary market offerings don't have a lock-up period, and
-    investors don't get voting rights. In primary offerings, once the lock-up
-    period of 1 year is over, investors have to find a potential buyer of the
-    token to divest .
   title: Primary and Secondary Markets
+  shortTitle: Market Types
+  details: >-
+    Securities Tokens are typically created in the primary market and traded on
+    the secondary markets.
+
+
+    ### The Primary Market
+
+    The Primary market is where security tokens are conceived. As it relates to
+    private digital assets, this is when a company, otherwise referred to as the
+    Issuer, lists an offering for investors to invest in. A private company
+    issues tokens in order to raise capital to fund growth and or operations.
+
+
+    DSecuritize helps issuers structure offerings, prepare documentation,
+    onboard investors, create and store digital assets/tokens, and enable the
+    investment in, trade, and recording of digital assets in the distributed
+    ledger.
+
+
+    ### The Secondary Market
+
+    The secondary market is for trading securities previously issued in a
+    primary offering. In this market, one investor will offer to sell a share of
+    security in a marketplace where other investors are offering to buy shares;
+    this is also called peer-to-peer trading. In the secondary market, the
+    issuing company has no involvement in the trades.
+
+
+    Traditionally, the secondary market has been largely illiquid, however,
+    that’s now changed with the advent of blockchain technology, the sale and
+    transfer of securities are simplified, with the goal of providing greater
+    secondary market trading activity. Companies like Securitize are helping
+    buyers and sellers of digital asset securities connect and providing the
+    infrastructure and resources necessary to facilitate peer-to-peer trading.
+    Peer-to-peer trading opens up the potential of a more active marketplace
+    where market price discovery is possible.
 - key: references
   shortTitle: References
   details: >-
