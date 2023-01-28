@@ -76,6 +76,12 @@
           "shortTitle": "Market Types",
           "details": "Earlier, only accredited or institutional investors were able to invest in companies that were not publicly traded on stock exchanges. If such private companies needed to raise funds, they had to issue debt or equity to these accredited investors. However, this created a loophole in the investing process, as these private companies were not open  to offer any stake in the business to the general public. \n\nThis changed with the introduction of crowdfunding, which allows anyone to invest in a company in return for equity. However, the stake in private companies can only be diluted if the company is listed on a stock exchange or acquired by another company. This means that the invested funds can be locked up for a long period of time. \n\nBlockchain technology provides a solution to this by allowing private companies to tokenize their equity and offer those tokens to investors through crowdfunding or offering them on blockchain protocols. These tokens can then easily be traded on secondary markets, giving investors the freedom to trade their investment at any time they want.\n\nSecuritize offers primary and secondary offerings to allow anyone to invest in private companies and other major funds (eg:- Art funds).\nThe main difference between primary and secondary offerings on securitize is that primary market offerings have a minimum lock-up period of one year, and investors get voting rights in decisions related to the particular fund. In contrast, secondary market offerings don't have a lock-up period, and investors don't get voting rights. In primary offerings, once the lock-up period of 1 year is over, investors have to find a potential buyer of the token to divest .\n",
           "title": "Primary and Secondary Markets"
+        },
+        {
+          "key": "references",
+          "shortTitle": "References",
+          "details": "References\n-  https://securitize.io/explore-our-all-in-one-solution\n- https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How-to-Tokenize+Your+Asset+%5Bincl+end-to-end%5D+.pdf\n- https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How+to+onboard+a+TA.pdf",
+          "title": "References"
         }
       ],
       "readings": [],
