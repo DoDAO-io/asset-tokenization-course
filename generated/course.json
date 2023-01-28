@@ -48,6 +48,12 @@
           "shortTitle": "Security Tokens",
           "details": "In 2018, the Securities and Exchange Commission (SEC) ruled that digital asset securities must follow the same regulations as traditional securities. The SEC sees digital asset securities as under their domain and, as such, these assets are subject to the same laws as traditional securities. Security tokens, in the form of digital asset securities, represent a fractional ownership in an underlying asset. These assets can be investments like real estate, fine art, or venture capital. They can also be digital assets like a website, app, or even a blockchain. \n\nInvestors can purchase security tokens using fiat currencies such as the USD or cryptocurrencies such as BTC or ETH. \n\nAlthough both digital asset securities and cryptocurrencies are tokens, it's important to note that they are not interchangeable. Comparing them would be like comparing a share of stock to a dollar bill, or to reward points. Cryptocurrencies can have various usages and utility, and not all the rules that apply to security tokens are applicable to other types of tokens.\n\nDigital Asset Securities (or “security tokens”) enable a 100% digital experience, removing\nlag-time while providing real-time data on cap tables and shareholder activity. Regulatory\nrestrictions are enforced in smart contracts, which means compliance is automatically\nassessed so that only verified shareholders can hold and trade the digital shares.",
           "title": "Security Tokens"
+        },
+        {
+          "key": "regulations",
+          "shortTitle": "Regulations",
+          "details": "Regulations\n\nRegulations\n\nRegulations\n\nRegulations",
+          "title": "Regulations"
         }
       ],
       "questions": [],
