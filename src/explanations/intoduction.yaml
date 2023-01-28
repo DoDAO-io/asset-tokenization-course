@@ -273,13 +273,8 @@
     assessed so that only verified shareholders can hold and trade the digital
     shares.
 - key: regulations
-  shortTitle: Regulations
-  details: |-
-    Regulations
-
-    Regulations
-
-    Regulations
-
-    Regulations
   title: Regulations
+  shortTitle: Regulations
+  details: >-
+    When issuing tokens it is very important to be aware of different regulatory
+    implications. Here we try to touch upon some of the most important points
