@@ -47,8 +47,8 @@
   title: Token Creation
   shortTitle: Token Lifecycle
   details: >-
-    Rules of creation of tokens are implemented in a smart contract and then
-    this smart contract is deployed to a blockchain. 
+    Securitize helps manage the full lifecycle of the token i.e. from creation
+    to deployment, and to issuance.
 
 
 
