@@ -127,7 +127,7 @@
 - key: token-creation
   title: Token Creation
   shortTitle: Token Creation
-  details: >
+  details: >-
     Rules of creation of tokens are implemented in a smart contract and then
     this smart contract is deployed to a blockchain. 
 
@@ -135,7 +135,11 @@
 
     ## Token Creation
 
-    Securitize offers a lot of flexibility towards 
+    Securitize offers a lot of flexibility towards creation of Token. Creation
+    of a token programatically with all the rules required programming
+    experience as a blockchain developer. But Securitize automates most of these
+    for token issues and hides the technical complexity. Following are the steps
+    involved when you create a new token in Securitize
 
 
     ### Determine the Blockchain
@@ -167,6 +171,13 @@
     investor. To facilitate the process, your Securitize Client Success Manager
     will complete the issuance for you via the Issuer Portal. Your investors are
     notified when the tokens are issued.
+
+
+
+
+    ## References
+
+    https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How-to-Tokenize+Your+Asset+%5Bincl+end-to-end%5D+.pdf
 - key: investors-how-can-they-use-securitize
   shortTitle: Investors
   details: >
