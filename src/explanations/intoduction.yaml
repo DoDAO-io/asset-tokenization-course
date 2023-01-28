@@ -84,13 +84,15 @@
     chance at growing their wealth.
 
 
-    2. **Increased Speed and Lower Cost** - With automation in the issuance,
-    distribution, and management of securities, as well as securities servicing
-    and corporate actions, the entire securities transaction process becomes
-    more efficient and cost-effective for both issuers and investors.
-    Additionally, the distributed nature of the network with no single point of
-    failure, the immutability of the ledger, and the application of cryptography
-    make the infrastructure more resilient and safe.
+    2. **Increased Speed and Lower Cost** - It's a common notion that digital
+    activities with little-to-no human interaction tend to happen more quickly.
+    That’s typically the case of financial activities leveraging the blockchain
+    as well. With less human dependency for operational tasks, marketplaces
+    leveraging the blockchain can trade 24/7 and take advantage of instant
+    settlement, where unlike the T+2 (trade +2 days) settlement period
+    associated with public market stock transactions, private marketplaces
+    leveraging the blockchain typically can complete trades in minutes.
+
 
 
     3. **Transparency** - Transparency is one of the key benefits that
