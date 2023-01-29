@@ -279,4 +279,35 @@
 - key: regulations
   title: Regulations
   shortTitle: Regulations
-  details: "When issuing tokens it is very important to be aware of different regulatory implications. Here we try to touch upon some of the most important points\n\n## Current State\nMost retail investors are familiar with the public markets and investing in and trading securities such as public company stocks, mutual funds, and ETFs are highly accessible and inexpensive to trade through traditional brokerage firms. \n\nPrivate markets remain largely unknown because most citizens are barred from participating. Private markets are not just about a select group of \"unicorns\" that have gone public.\_\n\nSecurities issued on the public market typically require extensive public disclosure through costly and time-consuming filings with regulators. To issue and maintain public debt, companies must disclose information about their finances, earnings, and performance while remaining accountable to shareholders. This costs cost associated with this can easily be $500,000+. \n\nWith limited access compared to public markets and historically less institutional participation, private markets were less liquid and very manual for companies and investors to trade. But like most things,  growing awareness of market potential led to greater demand and opened the door for change.\n\nLooking at trading volumes, we see a large discrepancy between the two markets. $33 trillion is traded annually on the public market, but only $100 billion (or $0.1 trillion) is traded on the private market.\n\n## Securities and Howey Test\nBut what are securities? The Securities Act of 1933 and the Securities Exchange Act of 1934 lay out the definition of a security in painful detail. But a more helpful guide can be found in the Howey Test.\n\nThe Howey Test comes from a 1946 Supreme Court ruling in the SEC v. W.J. Howey Co., which has been reaffirmed in the courts several times. Under the Howey Test, a transaction is considered to be a security if it meets the following four criteria:\n\n- Money is invested.\n- There is an expectation the investor will earn a profit.\n- The investment is in a common enterprise.\n- Profits are generated via the efforts of others.\n"
+  details: >
+    When issuing tokens it is very important to be aware of different regulatory
+    implications. Here we try to touch upon some of the most important points
+
+
+    ## U.S. Securities and Exchange Commission (SEC)
+
+    In the United States, cryptocurrencies have received a lot of attention from
+    both federal and state governments. The SEC typically has authority over the
+    issuance or resale of any security token or other digital asset that
+    constitutes security.
+
+
+    The SEC has been unequivocal in its opinion that even if a token issued in
+    an ICO has utility, the token will still be deemed a security that is
+    subject to the Securities Act if it meets elements of the Howey test.
+
+
+    ## Howey Test
+
+    The Howey Test is derived from a 1946 Supreme Court ruling in the case of
+    the SEC v. W.J. Howey Co., which has been reaffirmed by the courts several
+    times. Under the Howey Test, a transaction is considered a security if the
+    following four criteria are met:
+
+    - Money is invested.
+
+    - There is an expectation the investor will earn a profit.
+
+    - The investment is in a common enterprise.
+
+    - Profits are generated via the efforts of others.
