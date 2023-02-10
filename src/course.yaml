@@ -51,6 +51,14 @@ topics:
       Securitize. We will also discuss the primary and secondary markets feature
       provided by securitize.
     explanations: securitize-protocol.yaml
+  - key: polymath
+    title: Polymath
+    details: >-
+      Polymath is an asset tokenization platform that enables people to digitize
+      real world assets and can mint tokens backing the assets for the purpose
+      of getting investors or generally raising funds for projects.
+    explanations: polymath.yaml
+    questions: polymath.yaml
 courseAdmins:
   - '0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b'
 coursePassContent: Pass content of Course !!!!!!!!!!

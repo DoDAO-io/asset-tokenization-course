@@ -14,6 +14,10 @@
     "0x47a67e14b3804dc652b3a3200d8c00d4f55abb6b"
   ],
   "coursePassContent": "Pass content of Course !!!!!!!!!!",
+  "topicConfig": {
+    "showExplanations": false,
+    "showHints": false
+  },
   "topics": [
     {
       "title": "Intoduction",
@@ -23,15 +27,15 @@
       "explanations": [
         {
           "key": "what-is-asset-tokenization",
+          "title": "What is Asset Tokenization?",
           "shortTitle": "What is Tokenization",
-          "details": "A token is a digital unit of cryptocurrency that is either used as a specific asset or it represents a particular use on the blockchain. Tokens can have multiple use cases but the most common ones are as security, utility or governance tokens. \n\nAsset tokenization refers to the process of creating a digital token that represents a physical or digital asset, such as real estate, artwork, or even company shares, on a blockchain network. \n\nThis token can then be bought, sold, and traded like any other cryptocurrency, and can also enable fractional ownership of assets, making it more accessible to a wider range of investors. Tokenization can also enable smart contract functionality, which can automate the process of buying and selling assets and can also provide a tamper-proof and transparent record of ownership.\n## Issues\n1. Public and Private Markets \n   - https://securitize.io/learn/three-things-investors-should-know-about-private-equity\n   - https://securitize.io/learn/differences-between-public-markets-and-private-markets\n2. Liquidity \n3. Ownership Cost\n4. Settlement Time - \n\n## Use Cases of Tokenization\nThere are many examples of tokenized assets, some of which include:\n\n1. **Real estate**: Tokenization allows for the creation of digital tokens that represent ownership of a physical property, enabling fractional ownership and more efficient trading of real estate.\n\n2. **Art**: Tokenization can be used to represent ownership of fine art, making it more accessible to a wider range of investors and collectors.\n\n3. **Stocks**: Tokenization can be used to represent ownership of company shares, enabling more efficient and secure trading of stocks.\n\n4. **Commodities**: Tokenization can be used to represent ownership of commodities such as gold, oil, and other precious metals, enabling more efficient trading and storage.\n\n5. **Collectibles**: Tokenization can be used to represent ownership of collectible items such as sports cards, comic books, and other rare items, making it more accessible to a wider range of collectors.\n\n6. **Music rights**: Tokenization can be used to represent ownership of music rights, making it more efficient for creators and investors to manage and monetize music.\n\n7. **Luxury goods**: Tokenization can be used to represent ownership of luxury goods such as designer clothes, watches and handbags, making it more accessible for investors and collectors.\n\nThese are just a few examples and the possibilities are endless, as any asset can be tokenized.\n",
-          "title": "What is Asset Tokenization?"
+          "details": "A token is a digital unit of cryptocurrency that is either used as a specific asset or it represents a particular use on the blockchain. Tokens can have multiple use cases but the most common ones are as security, utility or governance tokens. \n\nAsset tokenization refers to the process of creating a digital token that represents a physical or digital asset, such as real estate, artwork, or even company shares, on a blockchain network. \n\nThis token can then be bought, sold, and traded like any other cryptocurrency, and can also enable fractional ownership of assets, making it more accessible to a wider range of investors. Tokenization can also enable smart contract functionality, which can automate the process of buying and selling assets and can also provide a tamper-proof and transparent record of ownership.\n## Issues\n1. Public and Private Markets \n   - https://securitize.io/learn/three-things-investors-should-know-about-private-equity\n   - https://securitize.io/learn/differences-between-public-markets-and-private-markets\n2. Liquidity \n3. Ownership Cost\n4. Settlement Time - \n\n## Use Cases of Tokenization\nThere are many examples of tokenized assets, some of which include:\n\n1. **Real estate**: Tokenization allows for the creation of digital tokens that represent ownership of a physical property, enabling fractional ownership and more efficient trading of real estate.\n\n2. **Art**: Tokenization can be used to represent ownership of fine art, making it more accessible to a wider range of investors and collectors.\n\n3. **Stocks**: Tokenization can be used to represent ownership of company shares, enabling more efficient and secure trading of stocks.\n\n4. **Commodities**: Tokenization can be used to represent ownership of commodities such as gold, oil, and other precious metals, enabling more efficient trading and storage.\n\n5. **Collectibles**: Tokenization can be used to represent ownership of collectible items such as sports cards, comic books, and other rare items, making it more accessible to a wider range of collectors.\n\n6. **Music rights**: Tokenization can be used to represent ownership of music rights, making it more efficient for creators and investors to manage and monetize music.\n\n7. **Luxury goods**: Tokenization can be used to represent ownership of luxury goods such as designer clothes, watches and handbags, making it more accessible for investors and collectors.\n\nThese are just a few examples and the possibilities are endless, as any asset can be tokenized.\n"
         },
         {
           "key": "benefits-of-tokenization",
+          "title": "Benefits of Tokenization",
           "shortTitle": "Benefits",
-          "details": "1.  **Global Reach** - Some of the most stable companies to invest in are ones like Google, Apple, Amazon, and Tesla. However, there are plenty of people globally who don't have access to these modern growth stocks. Blockchain enables a global financial system, giving small investors the opportunity to invest across borders. This allows everyone to have a fair chance at growing their wealth.\n\n2. **Increased Speed and Lower Cost** - It's a common notion that digital activities with little-to-no human interaction tend to happen more quickly. That’s typically the case of financial activities leveraging the blockchain as well. With less human dependency for operational tasks, marketplaces leveraging the blockchain can trade 24/7 and take advantage of instant settlement, where unlike the T+2 (trade +2 days) settlement period associated with public market stock transactions, private marketplaces leveraging the blockchain typically can complete trades in minutes.\n\n\n3. **Transparency** - Transparency is one of the key benefits that blockchain technology can bring to the financial markets. By enhancing information recording and sharing, blockchain can help create a more transparent market environment, with data that is more accurate and reliable. This in turn can help boost investor confidence and make the markets more efficient. Additionally, the decentralized nature of blockchain can help reduce the risks of fraud and corruption, as well as improve audibility.\n\n4. **Fractional Ownership** -  As blockchain assets can be divided into smaller units, this increases liquidity. For example, a traditional real estate transfer usually requires the entire property to be transferred from seller to buyer. However, when real estate is tokenized, it can be divided and sold as units. This makes it easier to trade in a number of ways. There are lower capital requirements for potential buyers, which expands the pool of potential investors. Shares of a tokenized asset are more affordable, making it more accessible to a wider range of people solving high price entry barriers.\n\n5. **Cost savings** -  Tokenization has the potential to reduce costs in a variety of ways, for example, by settling trades instantaneously, reducing delivery charge as assets are sold digitally . By this risk for the fund is also greatly reduced. Tokens also allow for secondary market trading, which could help maintain assets under management while simultaneously reducing the cost of maintaining liquidity in the fund. Tokenizing also helps owners keep track of their assets as well as gives them more control over their investment.\n\n6. **Better Regulation** - real-time information about on-chain events can help regulators better understand what's happening with specific projects. This, in turn, can lead to more informed decision-making when it comes to compliance and interactions with those behind the project.\n",
-          "title": "Benefits of Tokenization"
+          "details": "1.  **Global Reach** - Some of the most stable companies to invest in are ones like Google, Apple, Amazon, and Tesla. However, there are plenty of people globally who don't have access to these modern growth stocks. Blockchain enables a global financial system, giving small investors the opportunity to invest across borders. This allows everyone to have a fair chance at growing their wealth.\n\n2. **Increased Speed and Lower Cost** - It's a common notion that digital activities with little-to-no human interaction tend to happen more quickly. That’s typically the case of financial activities leveraging the blockchain as well. With less human dependency for operational tasks, marketplaces leveraging the blockchain can trade 24/7 and take advantage of instant settlement, where unlike the T+2 (trade +2 days) settlement period associated with public market stock transactions, private marketplaces leveraging the blockchain typically can complete trades in minutes.\n\n\n3. **Transparency** - Transparency is one of the key benefits that blockchain technology can bring to the financial markets. By enhancing information recording and sharing, blockchain can help create a more transparent market environment, with data that is more accurate and reliable. This in turn can help boost investor confidence and make the markets more efficient. Additionally, the decentralized nature of blockchain can help reduce the risks of fraud and corruption, as well as improve audibility.\n\n4. **Fractional Ownership** -  As blockchain assets can be divided into smaller units, this increases liquidity. For example, a traditional real estate transfer usually requires the entire property to be transferred from seller to buyer. However, when real estate is tokenized, it can be divided and sold as units. This makes it easier to trade in a number of ways. There are lower capital requirements for potential buyers, which expands the pool of potential investors. Shares of a tokenized asset are more affordable, making it more accessible to a wider range of people solving high price entry barriers.\n\n5. **Cost savings** -  Tokenization has the potential to reduce costs in a variety of ways, for example, by settling trades instantaneously, reducing delivery charge as assets are sold digitally . By this risk for the fund is also greatly reduced. Tokens also allow for secondary market trading, which could help maintain assets under management while simultaneously reducing the cost of maintaining liquidity in the fund. Tokenizing also helps owners keep track of their assets as well as gives them more control over their investment.\n\n6. **Better Regulation** - real-time information about on-chain events can help regulators better understand what's happening with specific projects. This, in turn, can lead to more informed decision-making when it comes to compliance and interactions with those behind the project.\n"
         },
         {
           "key": "downsides-of-tokenization",
@@ -41,27 +45,27 @@
         },
         {
           "key": "token-types",
+          "title": "Token Types",
           "shortTitle": "Token Types",
-          "details": "A Token can be thought of as a representation of value that can be exchanged or traded in most cases.\n\nThere are many different types of tokens:\n1) **Coins/AltCoins** - These are native to blockchain and can be used for payments or to power transactions. The most \n   famous type of coins are Bitcoin(BTC) and Ethereum(ETH). These are normally awarded to the validators of the \n   transaction, but can also be bought and exchanged.\n2) **Security tokens** -  are digital assets that represent some type of underlying asset, equity, or commodity. There are many different types of security tokens, including:\n\n   1) **Stocks or Bonds** - These tokens represent an underlying stock or bond. They help investors from any country gain exposure to one of the most famous stocks or bonds.\n\n   2) **Commodities** - These tokens represent a commodity, such as gold or oil. They help investors from any country gain exposure to the commodity market.\n\n   3) **Real Estate** - These tokens represent a piece of property. They help investors from any country gain exposure to the real estate market.\n3) **Protocol/product tokens** - these tokens are issued by a protocol and may or may not have any utility or governance power related to them. Examples of these tokens include MKR, AAVE and COMP. \n4) **Utility Tokens** - they can serve any purpose that a developer wants them to. In general, utility tokens provide access to a specific service or product within a blockchain ecosystem. They can often be the same as the protocol token or can be different. \n5) **Governance Tokens** - Governance tokens are primarily used for voting and decision-making within a protocol or organization. They may also offer some financial incentives, but their main purpose is to give token holders a say in how the protocol or organization is run.\n6) **Cause-Based Tokens** - they are designed to support a specific cause or charity. They typically don't offer any financial incentives or utility, but are meant to show support for the cause they represent. \n7) **NFTs** - NFTs, or non-fungible tokens, are a type of cryptocurrency that is limited in supply and has a unique identity. NFTs are difficult to copy or replicate, making them ideal for representing digital or real-world assets such as paintings, photographs, or other materials.\n\nAsset token primary relates to **Security Tokens**.\n\nFor asset or equity-backed tokens, there is usually a custodian and an investment institution involved in the process of creating a tokenized stock, assets or commodities. The institution buys the underlying stock and deposits it with the custodian. Based on the number of shares that the custodian holds in reserve, tokens are issued on a blockchain. The price of each token is pegged to the value of the shares.This process allows for a more efficient way of buying and selling stocks or assets, as well as a more secure way of storing them. By using a blockchain, there is no need for a third party to keep track of ownership or transactions. This makes the process more transparent and less susceptible to fraud.\n\nIn 2022, many cryptocurrency exchanges went bankrupt because the tokens they were holding were not kept isolated. These exchanges were centralized entities that were built on top of decentralized technology, and they didn't disclose whether or not users' funds were backed 1:1 at all times. As an educated blockchain user, we should be aware whenever we are depositing custody of our assets or tokens to anyone else.",
-          "title": "Token Types"
+          "details": "A Token can be thought of as a representation of value that can be exchanged or traded in most cases.\n\nThere are many different types of tokens:\n1) **Coins/AltCoins** - These are native to blockchain and can be used for payments or to power transactions. The most \n   famous type of coins are Bitcoin(BTC) and Ethereum(ETH). These are normally awarded to the validators of the \n   transaction, but can also be bought and exchanged.\n2) **Security tokens** -  are digital assets that represent some type of underlying asset, equity, or commodity. There are many different types of security tokens, including:\n\n   1) **Stocks or Bonds** - These tokens represent an underlying stock or bond. They help investors from any country gain exposure to one of the most famous stocks or bonds.\n\n   2) **Commodities** - These tokens represent a commodity, such as gold or oil. They help investors from any country gain exposure to the commodity market.\n\n   3) **Real Estate** - These tokens represent a piece of property. They help investors from any country gain exposure to the real estate market.\n3) **Protocol/product tokens** - these tokens are issued by a protocol and may or may not have any utility or governance power related to them. Examples of these tokens include MKR, AAVE and COMP. \n4) **Utility Tokens** - they can serve any purpose that a developer wants them to. In general, utility tokens provide access to a specific service or product within a blockchain ecosystem. They can often be the same as the protocol token or can be different. \n5) **Governance Tokens** - Governance tokens are primarily used for voting and decision-making within a protocol or organization. They may also offer some financial incentives, but their main purpose is to give token holders a say in how the protocol or organization is run.\n6) **Cause-Based Tokens** - they are designed to support a specific cause or charity. They typically don't offer any financial incentives or utility, but are meant to show support for the cause they represent. \n7) **NFTs** - NFTs, or non-fungible tokens, are a type of cryptocurrency that is limited in supply and has a unique identity. NFTs are difficult to copy or replicate, making them ideal for representing digital or real-world assets such as paintings, photographs, or other materials.\n\nAsset token primary relates to **Security Tokens**.\n\nFor asset or equity-backed tokens, there is usually a custodian and an investment institution involved in the process of creating a tokenized stock, assets or commodities. The institution buys the underlying stock and deposits it with the custodian. Based on the number of shares that the custodian holds in reserve, tokens are issued on a blockchain. The price of each token is pegged to the value of the shares.This process allows for a more efficient way of buying and selling stocks or assets, as well as a more secure way of storing them. By using a blockchain, there is no need for a third party to keep track of ownership or transactions. This makes the process more transparent and less susceptible to fraud.\n\nIn 2022, many cryptocurrency exchanges went bankrupt because the tokens they were holding were not kept isolated. These exchanges were centralized entities that were built on top of decentralized technology, and they didn't disclose whether or not users' funds were backed 1:1 at all times. As an educated blockchain user, we should be aware whenever we are depositing custody of our assets or tokens to anyone else."
         },
         {
           "key": "security-tokens",
+          "title": "Security Tokens",
           "shortTitle": "Security Tokens",
-          "details": "In 2018, the Securities and Exchange Commission (SEC) ruled that digital asset securities must follow the same regulations as traditional securities. The SEC sees digital asset securities as under their domain and, as such, these assets are subject to the same laws as traditional securities. Security tokens, in the form of digital asset securities, represent a fractional ownership in an underlying asset. These assets can be investments like real estate, fine art, or venture capital. They can also be digital assets like a website, app, or even a blockchain. \n\nInvestors can purchase security tokens using fiat currencies such as the USD or cryptocurrencies such as BTC or ETH. \n\nAlthough both digital asset securities and cryptocurrencies are tokens, it's important to note that they are not interchangeable. Comparing them would be like comparing a share of stock to a dollar bill, or to reward points. Cryptocurrencies can have various usages and utility, and not all the rules that apply to security tokens are applicable to other types of tokens.\n\nDigital Asset Securities (or “security tokens”) enable a 100% digital experience, removing\nlag-time while providing real-time data on cap tables and shareholder activity. Regulatory\nrestrictions are enforced in smart contracts, which means compliance is automatically\nassessed so that only verified shareholders can hold and trade the digital shares.",
-          "title": "Security Tokens"
+          "details": "In 2018, the Securities and Exchange Commission (SEC) ruled that digital asset securities must follow the same regulations as traditional securities. The SEC sees digital asset securities as under their domain and, as such, these assets are subject to the same laws as traditional securities. Security tokens, in the form of digital asset securities, represent a fractional ownership in an underlying asset. These assets can be investments like real estate, fine art, or venture capital. They can also be digital assets like a website, app, or even a blockchain. \n\nInvestors can purchase security tokens using fiat currencies such as the USD or cryptocurrencies such as BTC or ETH. \n\nAlthough both digital asset securities and cryptocurrencies are tokens, it's important to note that they are not interchangeable. Comparing them would be like comparing a share of stock to a dollar bill, or to reward points. Cryptocurrencies can have various usages and utility, and not all the rules that apply to security tokens are applicable to other types of tokens.\n\nDigital Asset Securities (or “security tokens”) enable a 100% digital experience, removing\nlag-time while providing real-time data on cap tables and shareholder activity. Regulatory\nrestrictions are enforced in smart contracts, which means compliance is automatically\nassessed so that only verified shareholders can hold and trade the digital shares."
         },
         {
           "key": "access-to-deals",
+          "title": "Access To Deals",
           "shortTitle": "Access To Deals",
-          "details": "Many volatile markets aren't as risky as you might think if you understand the economics and patterns of that particular sector. Most of these markets are only accessible to retail investors with a lot of money. You can be one of the most knowledgeable people in that sector, but you won't be able to invest if you don't have enough money to meet the requirements set by government agencies.\n\n## Public vs Private Markets\nMost retail investors are familiar with the public markets and investing in and trading securities such as public company stocks, mutual funds, and ETFs are highly accessible and inexpensive to trade through traditional brokerage firms. \n\nPrivate markets remain largely unknown because most citizens are barred from participating. Private markets are not just about a select group of \"unicorns\" that have gone public. \n\nSecurities issued on the public market typically require extensive public disclosure through costly and time-consuming filings with regulators. To issue and maintain public debt, companies must disclose information about their finances, earnings, and performance while remaining accountable to shareholders. This costs cost associated with this can easily be $500,000+. \n\nWith limited access compared to public markets and historically less institutional participation, private markets were less liquid and very manual for companies and investors to trade. But like most things,  growing awareness of market potential led to greater demand and opened the door for change.\n\nLooking at trading volumes, we see a large discrepancy between the two markets. $33 trillion is traded annually on the public market, but only $100 billion (or $0.1 trillion) is traded on the private market.\n\n## Limited investment access for retail investors\nIn the late 1990 s, startup companies were inclined to go public immediately after receiving the funding of their choices. Moving from seed capital to venture capital to private equity to IPO could occur in a relatively brief amount of time. Amazon took only three years (1994-1997) to make this progression and went public in 1997 with a stock value of $438 million.\n\nInvestors who are involved pre Initial Public Offerings (IPOs) produce the most profitable earnings. Venture capitalists typically favor keeping companies private so that they can make the most return on their investments. Also, staying private permits companies to maintain greater control and focus, and fewer reporting requirements are needed.\n\nThe number of private companies in the U.S. with more than 500 workers has doubled in the last two decades. The number of publicly listed companies dropped by more than 50 percent. Due to this, investors are chasing after high growth opportunities in private markets that the public markets dominated in the past.\n\nThis reduces the growth potential of the public market and prevents retail investors from participating until growth normalizes. This creates an unfavorable scenario as retail investors only have access to the public market. \n\n\n\n\n\n\n\n\n",
-          "title": "Access To Deals"
+          "details": "Many volatile markets aren't as risky as you might think if you understand the economics and patterns of that particular sector. Most of these markets are only accessible to retail investors with a lot of money. You can be one of the most knowledgeable people in that sector, but you won't be able to invest if you don't have enough money to meet the requirements set by government agencies.\n\n## Public vs Private Markets\nMost retail investors are familiar with the public markets and investing in and trading securities such as public company stocks, mutual funds, and ETFs are highly accessible and inexpensive to trade through traditional brokerage firms. \n\nPrivate markets remain largely unknown because most citizens are barred from participating. Private markets are not just about a select group of \"unicorns\" that have gone public. \n\nSecurities issued on the public market typically require extensive public disclosure through costly and time-consuming filings with regulators. To issue and maintain public debt, companies must disclose information about their finances, earnings, and performance while remaining accountable to shareholders. This costs cost associated with this can easily be $500,000+. \n\nWith limited access compared to public markets and historically less institutional participation, private markets were less liquid and very manual for companies and investors to trade. But like most things,  growing awareness of market potential led to greater demand and opened the door for change.\n\nLooking at trading volumes, we see a large discrepancy between the two markets. $33 trillion is traded annually on the public market, but only $100 billion (or $0.1 trillion) is traded on the private market.\n\n## Limited investment access for retail investors\nIn the late 1990 s, startup companies were inclined to go public immediately after receiving the funding of their choices. Moving from seed capital to venture capital to private equity to IPO could occur in a relatively brief amount of time. Amazon took only three years (1994-1997) to make this progression and went public in 1997 with a stock value of $438 million.\n\nInvestors who are involved pre Initial Public Offerings (IPOs) produce the most profitable earnings. Venture capitalists typically favor keeping companies private so that they can make the most return on their investments. Also, staying private permits companies to maintain greater control and focus, and fewer reporting requirements are needed.\n\nThe number of private companies in the U.S. with more than 500 workers has doubled in the last two decades. The number of publicly listed companies dropped by more than 50 percent. Due to this, investors are chasing after high growth opportunities in private markets that the public markets dominated in the past.\n\nThis reduces the growth potential of the public market and prevents retail investors from participating until growth normalizes. This creates an unfavorable scenario as retail investors only have access to the public market. \n\n\n\n\n\n\n\n\n"
         },
         {
           "key": "regulations",
+          "title": "Regulations",
           "shortTitle": "Regulations",
-          "details": "When issuing tokens it is very important to be aware of different regulatory implications. Here we try to touch upon some of the most important points\n\n## U.S. Securities and Exchange Commission (SEC)\nIn the United States, cryptocurrencies have received a lot of attention from both federal and state governments. The SEC typically has authority over the issuance or resale of any security token or other digital asset that constitutes security.\n\nThe SEC has been unequivocal in its opinion that even if a token issued in an ICO has utility, the token will still be deemed a security that is subject to the Securities Act if it meets elements of the Howey test.\n\nSecurities such as stocks and debt instruments, and also investment contracts, are under the direction of the SEC. Derivatives such as futures and swaps pertaining to commodities are under the oversight of the CFTC, unless those commodities are securities.\n\nThe future of cryptocurrency regulation is still an open question.\n\n## Howey Test\nThe Howey Test is derived from a 1946 Supreme Court ruling in the case of the SEC v. W.J. Howey Co., which has been reaffirmed by the courts several times. Under the Howey Test, a transaction is considered a security if the following four criteria are met:\n- Money is invested.\n- There is an expectation the investor will earn a profit.\n- The investment is in a common enterprise.\n- Profits are generated via the efforts of others.\n\n## Notable Regulations\nSome of the most crucial legal frameworks that help you to fundraise from retail or private investors to offer you approval and remain compliant include the following.\n1. **Reg CF** - Reg CF permits non-accredited (retail) investors to purchase private companies up to a certain limit depending on either their net-worth or annual income, helping businesses raise up to $5 million per year.\n2. **Reg A** - Regulation A Tier 2 (the Mini-IPO/Reg A) is a less demanding variation of initial public offering (IPO). It's less regulated and can be used to raise up to $75 million every 12 months. It enables retail investors to invest alongside accredited and institutional investors\n3. **Reg D** - Regulation D, Rule 506 allows accredited investors to invest in private investment firms without an upper limit and without having to go public.\n\n\n\n ",
-          "title": "Regulations"
+          "details": "When issuing tokens it is very important to be aware of different regulatory implications. Here we try to touch upon some of the most important points\n\n## U.S. Securities and Exchange Commission (SEC)\nIn the United States, cryptocurrencies have received a lot of attention from both federal and state governments. The SEC typically has authority over the issuance or resale of any security token or other digital asset that constitutes security.\n\nThe SEC has been unequivocal in its opinion that even if a token issued in an ICO has utility, the token will still be deemed a security that is subject to the Securities Act if it meets elements of the Howey test.\n\nSecurities such as stocks and debt instruments, and also investment contracts, are under the direction of the SEC. Derivatives such as futures and swaps pertaining to commodities are under the oversight of the CFTC, unless those commodities are securities.\n\nThe future of cryptocurrency regulation is still an open question.\n\n## Howey Test\nThe Howey Test is derived from a 1946 Supreme Court ruling in the case of the SEC v. W.J. Howey Co., which has been reaffirmed by the courts several times. Under the Howey Test, a transaction is considered a security if the following four criteria are met:\n- Money is invested.\n- There is an expectation the investor will earn a profit.\n- The investment is in a common enterprise.\n- Profits are generated via the efforts of others.\n\n## Notable Regulations\nSome of the most crucial legal frameworks that help you to fundraise from retail or private investors to offer you approval and remain compliant include the following.\n1. **Reg CF** - Reg CF permits non-accredited (retail) investors to purchase private companies up to a certain limit depending on either their net-worth or annual income, helping businesses raise up to $5 million per year.\n2. **Reg A** - Regulation A Tier 2 (the Mini-IPO/Reg A) is a less demanding variation of initial public offering (IPO). It's less regulated and can be used to raise up to $75 million every 12 months. It enables retail investors to invest alongside accredited and institutional investors\n3. **Reg D** - Regulation D, Rule 506 allows accredited investors to invest in private investment firms without an upper limit and without having to go public.\n\n\n\n "
         }
       ],
       "questions": [],
@@ -69,27 +73,28 @@
       "summaries": []
     },
     {
-      "key": "securitize-protocol",
       "title": "Securitize Protocol",
+      "key": "securitize-protocol",
       "details": "Securitize is the perfect solution for companies looking to tokenize assets as part of a capital raise. They manage the entire process from legal setup and valuation, to auditing and investor onboarding, tokenization and cap table management. It ensures that the entire process is compliant with regulations, so companies can focus solely on running their business. \n\nIn this chapter we will learn how \"Token Issuers\" and \"Investors\" can use Securitize. We will also discuss the primary and secondary markets feature provided by securitize.",
+      "order": 1,
       "explanations": [
         {
           "key": "what-is-securitize",
+          "title": "What is Securitize",
           "shortTitle": "What is Securitize",
-          "details": "Securitize is an industry-renowned provider of a digital all-inclusive product that uses blockchain technology to make raising money less expensive and more straightforward, conforming to all compliance standards. The firm's objective is to assist private enterprises in shaving down the time-consuming capital raising process so they can focus on what they do best.\n\nSecuritize’s built-in connection with blockchain technology and fully-digital product suite enables near-instant settlements, eliminating reliance on and delays from third parties.\n\nSecuritize offers the complete product suite to enable your fundraising initiative, requiring no additional intermediary/middleman services. Securitize's main offerings related to asset tokenization include:\n\n1. **Robust, realtime issuer portal**   Token issuers can manage their token-holders the see the real-time activity related to token issuance like cap table updates, and its ever-changing activity.\n\n2. **Automated compliance** - Helps token issues to be compliant by using smart contracts that only execute transfers between KYC-verified accounts.\n\n3.  **Pathway to liquidity** - Helps list private shares/tokens on its registered Alternative Trading System (ATS) to enable instant trades and turn your shares/tokens into liquid equity.\n\n![Securitize Offering](https://raw.githubusercontent.com/DoDAO-io/asset-tokenization-course/main/images/securitize.png)\n\nSecuritize makes an effort to offer a diverse range of assets, including private placements for Equity, Debt, Funds, Real Estate, Crypto-related Securities, and Alternative Assets.\n\n\n",
-          "title": "What is Securitize"
+          "details": "Securitize is an industry-renowned provider of a digital all-inclusive product that uses blockchain technology to make raising money less expensive and more straightforward, conforming to all compliance standards. The firm's objective is to assist private enterprises in shaving down the time-consuming capital raising process so they can focus on what they do best.\n\nSecuritize’s built-in connection with blockchain technology and fully-digital product suite enables near-instant settlements, eliminating reliance on and delays from third parties.\n\nSecuritize offers the complete product suite to enable your fundraising initiative, requiring no additional intermediary/middleman services. Securitize's main offerings related to asset tokenization include:\n\n1. **Robust, realtime issuer portal**   Token issuers can manage their token-holders the see the real-time activity related to token issuance like cap table updates, and its ever-changing activity.\n\n2. **Automated compliance** - Helps token issues to be compliant by using smart contracts that only execute transfers between KYC-verified accounts.\n\n3.  **Pathway to liquidity** - Helps list private shares/tokens on its registered Alternative Trading System (ATS) to enable instant trades and turn your shares/tokens into liquid equity.\n\n![Securitize Offering](https://raw.githubusercontent.com/DoDAO-io/asset-tokenization-course/main/images/securitize.png)\n\nSecuritize makes an effort to offer a diverse range of assets, including private placements for Equity, Debt, Funds, Real Estate, Crypto-related Securities, and Alternative Assets.\n\n\n"
         },
         {
           "key": "token-creation",
+          "title": "Token Creation",
           "shortTitle": "Token Lifecycle",
-          "details": "Securitize helps manage the full lifecycle of the token i.e. from creation to deployment, and to issuance.\n\n\n## Token Creation\nSecuritize offers a lot of flexibility for the creation of your Token. If you are a blockchain developer with programming experience, you can create a token programmatically with all the rules required. However, Securitize automates most of these for token issuers and hides the technical complexity, and makes this process very simple even for non-technical people. Following are the steps involved when you create a new token in Securitize:\n\n1. **Determine the Blockchain** - Securitize is blockchain agnostic, which means they have created integrations with multiple different blockchains in order to work with a variety of projects. They work with the projects to identify the most appropriate blockchain for their tokenization by considering various factors such as gas fees and interoperability with the ecosystem. By doing this, they can provide each project with the best possible solution for their needs.\n\n2. **Define the Smart Contract** - Before tokenizing an asset or security, it’s crucial to establish what rights will be given to shareholders (i.e. voting rights), how many tokens will be issued, and what compliance requirements and legal limitations, such as jurisdictional restrictions, the digital asset should include. Once these conditions have been defined, they set up the smart contracts for the tokens and introduce the configuration in the Securitize Control Panel, which is linked to the company’s Issuer Portal.\n\n## Token Deployment\nOnce an investment round has been completed and the full cap table has been uploaded to the Issuer Panel, Securitize will deploy the smart contracts. Once the smart contracts are deployed, each investor can issue the tokens. To facilitate the process, your Securitize Client Success Manager will complete the issuance for you via the Issuer Portal. Your investors are notified when the tokens are issued.\n\n## Token Management\nSecuritize's Platform offers features related to the management of the token even after issuance.  Some of the notable features include\n1. **Payouts and Distribution** - From Securitize's  Portal you can easily manage the distribution of dividends and other payouts, as it will give you an accurate overview of your past and current cap\ntable. \n\n2. **Lost or Stolen Tokens** - Securitize's  Digital Transfer Agent can easily destroy the tokens\nand reissue the corresponding tokens to a new wallet the investor provides. You will be able to keep track of this via your Issuer Portal. \n\n3. **Provide Liquidity** - you can activate secondary trading on Securitize Markets to provide the potential for shareholder liquidity.\n\n## References\n- https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How-to-Tokenize+Your+Asset+%5Bincl+end-to-end%5D+.pdf",
-          "title": "Token Lifecycle"
+          "details": "Securitize helps manage the full lifecycle of the token i.e. from creation to deployment, and to issuance.\n\n\n## Token Creation\nSecuritize offers a lot of flexibility for the creation of your Token. If you are a blockchain developer with programming experience, you can create a token programmatically with all the rules required. However, Securitize automates most of these for token issuers and hides the technical complexity, and makes this process very simple even for non-technical people. Following are the steps involved when you create a new token in Securitize:\n\n1. **Determine the Blockchain** - Securitize is blockchain agnostic, which means they have created integrations with multiple different blockchains in order to work with a variety of projects. They work with the projects to identify the most appropriate blockchain for their tokenization by considering various factors such as gas fees and interoperability with the ecosystem. By doing this, they can provide each project with the best possible solution for their needs.\n\n2. **Define the Smart Contract** - Before tokenizing an asset or security, it’s crucial to establish what rights will be given to shareholders (i.e. voting rights), how many tokens will be issued, and what compliance requirements and legal limitations, such as jurisdictional restrictions, the digital asset should include. Once these conditions have been defined, they set up the smart contracts for the tokens and introduce the configuration in the Securitize Control Panel, which is linked to the company’s Issuer Portal.\n\n## Token Deployment\nOnce an investment round has been completed and the full cap table has been uploaded to the Issuer Panel, Securitize will deploy the smart contracts. Once the smart contracts are deployed, each investor can issue the tokens. To facilitate the process, your Securitize Client Success Manager will complete the issuance for you via the Issuer Portal. Your investors are notified when the tokens are issued.\n\n## Token Management\nSecuritize's Platform offers features related to the management of the token even after issuance.  Some of the notable features include\n1. **Payouts and Distribution** - From Securitize's  Portal you can easily manage the distribution of dividends and other payouts, as it will give you an accurate overview of your past and current cap\ntable. \n\n2. **Lost or Stolen Tokens** - Securitize's  Digital Transfer Agent can easily destroy the tokens\nand reissue the corresponding tokens to a new wallet the investor provides. You will be able to keep track of this via your Issuer Portal. \n\n3. **Provide Liquidity** - you can activate secondary trading on Securitize Markets to provide the potential for shareholder liquidity.\n\n## References\n- https://s3.us-east-2.amazonaws.com/securitizemarkets.io/caseStudies/How-to-Tokenize+Your+Asset+%5Bincl+end-to-end%5D+.pdf"
         },
         {
           "key": "primary-and-secondary-markets",
+          "title": "Primary and Secondary Markets",
           "shortTitle": "Market Types",
-          "details": "Securities Tokens are typically created in the primary market and traded on the secondary markets.\n\n### The Primary Market\nThe Primary market is where security tokens are conceived. As it relates to private digital assets, this is when a company, otherwise referred to as the Issuer, lists an offering for investors to invest in. A private company issues tokens in order to raise capital to fund growth and or operations.\n\nSecuritize helps issuers structure offerings, prepare documentation, onboard investors, create and store digital assets/tokens, and enable the investment in, trade, and recording of digital assets in the distributed ledger.\n\n### The Secondary Market\nThe secondary market is for trading securities previously issued in a primary offering. In this market, one investor will offer to sell a share of security in a marketplace where other investors are offering to buy shares; this is also called peer-to-peer trading. In the secondary market, the issuing company has no involvement in the trades.\n\nTraditionally, the secondary market has been largely illiquid, however, that’s now changed with the advent of blockchain technology, the sale and transfer of securities are simplified, with the goal of providing greater secondary market trading activity. Companies like Securitize are helping buyers and sellers of digital asset securities connect and providing the infrastructure and resources necessary to facilitate peer-to-peer trading. Peer-to-peer trading opens up the potential of a more active marketplace where market price discovery is possible.",
-          "title": "Primary and Secondary Markets"
+          "details": "Securities Tokens are typically created in the primary market and traded on the secondary markets.\n\n### The Primary Market\nThe Primary market is where security tokens are conceived. As it relates to private digital assets, this is when a company, otherwise referred to as the Issuer, lists an offering for investors to invest in. A private company issues tokens in order to raise capital to fund growth and or operations.\n\nSecuritize helps issuers structure offerings, prepare documentation, onboard investors, create and store digital assets/tokens, and enable the investment in, trade, and recording of digital assets in the distributed ledger.\n\n### The Secondary Market\nThe secondary market is for trading securities previously issued in a primary offering. In this market, one investor will offer to sell a share of security in a marketplace where other investors are offering to buy shares; this is also called peer-to-peer trading. In the secondary market, the issuing company has no involvement in the trades.\n\nTraditionally, the secondary market has been largely illiquid, however, that’s now changed with the advent of blockchain technology, the sale and transfer of securities are simplified, with the goal of providing greater secondary market trading activity. Companies like Securitize are helping buyers and sellers of digital asset securities connect and providing the infrastructure and resources necessary to facilitate peer-to-peer trading. Peer-to-peer trading opens up the potential of a more active marketplace where market price discovery is possible."
         },
         {
           "key": "references",
@@ -98,13 +103,286 @@
           "title": "References"
         }
       ],
+      "questions": [],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
+    },
+    {
+      "title": "Polymath",
+      "key": "polymath",
+      "details": "Polymath is an asset tokenization platform that enables people to digitize real world assets and can mint tokens backing the assets for the purpose of getting investors or generally raising funds for projects.",
+      "order": 2,
+      "explanations": [
+        {
+          "key": "what-is-polymath",
+          "title": "What is Polymath?",
+          "shortTitle": "Introduction",
+          "details": "[![Introduction to Polymath](https://img.youtube.com/vi/irGYjihFx3o/0.jpg)](https://www.youtube.com/watch?v=irGYjihFx3o)\n\nPolymath is an asset tokenization platform that enables people to digitize real-world assets and can mint tokens backing the assets for the purpose of getting investors or generally raising funds for projects. It is built as an open-source tool operated on smart contracts where anyone can access it and build on its infrastructure to create new solutions. As a security token, Polymenth is powered by ERC1400 which is the standard for regulated assets living on the Blockchain. This way investors can be whitelisted, Know Your Customer (KYC) processes can be initiated easily to know who owns what, limits on transitions can be set, and so on.\n\nPolymath is built on the Polymesh blockchain which is a specific protocol built for handling security tokens. It is able to manage certain functions such as compliance, identity, confidentiality, and governance which other blockchains may not be able to cover in full. Polymesh is operated on the ERC 1400 (an Ethereum-based standard for security tokens). \n\nSince 2017, Polymath has continuously strived to work with the Blockchain ecosystem to come up with a system that works for all. With the advanced technology that has been built by Polymath, issuers can automate their flows and state the rules about who can access or hold their tokens, what locations the tokens can be accessed from, how they can be transferred, the requirements for holding the tokens, etc. It is also highly customizable as you can create your offer, set up your yield strategy, issue tokens, manage your team of experts, attract investors to your business, manage current and future portfolios, and access to key players in the ecosystem while positioning your business for massive growth.\n\nAs a major player in the industry, Polymath has developed products that will cater to the needs of anyone who wants to build solutions that will digitize their real-world assets. With use cases such as effective asset onboarding, compliance assurance, transfer restrictions, redundant data, source insight, transfer disable functions, asset recovery, and identity verification, and with a deeply technical team focused on making the process simpler and easier, Polymath is powering the future of security tokens"
+        },
+        {
+          "key": "polymesh",
+          "title": "Polymesh",
+          "shortTitle": "Polymesh",
+          "details": "[![Polymesh Mainnet Demo](https://img.youtube.com/vi/8UOe8CuQAjM/0.jpg)](https://www.youtube.com/watch?v=8UOe8CuQAjM)\n\nPolymesh is the purpose-built blockchain network built by the Polymath team to manage security tokens. At the advent of Polymath, smart contracts were launched on a general blockchain, Ethereum, to build a token that will digitize physical assets. These tokens would serve as security tokens such that people who own physical assets in real life, can have a digital token to prove ownership of such assets. These tokens can then be traded in the primary and secondary markets thereby transferring ownership of not just the token but also the assets. \n\nHowever, there are many challenges surrounding the ERC20 protocol that was to be used that would make it not suitable for security tokens. Some of those challenges include anonymity since people can trade tokens without necessarily verifying their identities so this could easily create a loophole for theft. Also, these assets sit on regulated markets but the core ERC20 protocol was built for an unregulated environment so there is almost no way to enforce compliance with procedures and basic requirements for trading securities on the Blockchain.\n\nThese and many more issues created an opportunity for a new protocol and a new network, hence Polymath going ahead to build the Polymesh network specifically for security tokens, backed by the ERC 1400 protocol which was also created for securities. Polymesh, therefore, was built on the parity substrate framework because of its novel technology, product roadmap and fit with what Ploymath is building, community and a number of other factors some of which include:\n\n* Modularity: Polymath operates a modular structure as a part of its infrastructure where new rules and features can be added to the network easily by creating new modules while maintaining an interoperable library of the ERC 1400 protocol where people can use only parts of the protocol that makes sense to them. Substrate also operates a similar model thereby making a seamless integration possible. It has a library of modules for functions such as finality, block production, balance management, governance features, and support for smart contracts.\n* Future-Proof Technology: The major parts of the Substrate infrastructure are built on Rust; a language known for high performance, low runtime size, and optimized for memory safety guarantees. It is also built on industry standards such as LibP2P and WASM which are slowly being adopted by other Blockchains like Ethereum.\n* Governance and Upgrades: Polymesh being a blockchain built for a specific purpose, needed to run on a framework that gives it the flexibility it needed to provide all necessary requirements. Substrate provides a forkless upgrade mechanism such that the process of upgrading the software is done seamlessly. \n* Community: Polymath has a large number of people building various solutions on their infrastructure and Substrate also has a great community of developers that make the work seamless. So, there is a symbiotic relationship between the two as Ploymesh can easily leverage the Substrate community when releasing features or marketing their products."
+        },
+        {
+          "key": "polymath-capital-platform",
+          "shortTitle": "Polymath Capital",
+          "details": "The Polymath Capital Platform is an all-inclusive platform built on the Polymesh blockchain to power the process of raising funds for real-world projects or getting investments on a real-world asset by providing security tokens to people who invest in these assets or projects. It is designed to work for everyone, whether you are an investment advisor, an investor, or an asset owner. It is one of the most robust systems to provide this service to people. What makes this really interesting is that it is operated on the Blockchain which is a transparent and decentralized network for anyone to be a part of.\n\nAsset owners can easily create and issue tokens, create a yield amount for investments made, create a capitalization table to know what all investors own, apply KYC/KYB restrictions where necessary, and get team members onboarded on the Ploymath Capital Platform. Investors can as well get invited to invest or be able to browse through various investments to know which fit them based on the jurisdiction, yield, KYC, and any other constraint that might be placed on investment while advisors can generally have access to information if the team has that function from the get-go. They can have information on cap tables, tokens created, and any other documentation or process created in the team.\n\nAs an end-to-end platform, Polymath provides not just tools for fundraising but for investor management throughout the lifecycle of the investment. Everything needed to manage the process is already included in the software. Some of the core features highlighted are:\n\n* Cap Table Management\n* Corporate Governance\n* Onboarding\n* Investors’ Accreditation\n* Custody\n* Investment Offerings\n\nBuilding for regulated markets definitely has a lot of challenges and this is why Polymath is committed to making the process of securitizing physical assets via tokens operated on the blockchain seamless. \n",
+          "title": "Polymath Capital Platform"
+        },
+        {
+          "key": "polymath-token-studio",
+          "shortTitle": "Token Studio",
+          "details": "The Polymath token studio is the platform where issuers can create security tokens either on the Polymesh network or on Ethereum. The process of creating these tokens starts with reservation, which is a 60-day period where a security token ticker symbol can be locked before opening it up to the public. For example, if GMT is a ticker symbol that is available on Polymesh, an issuer can reserve GMT for a period of 60 days within which the token must be created and if after that period the token is not created, then GMT is made available for the public to use. Reserving a token on Polymath costs 500 POLYX.\n\nBefore the minting process can begin, the issuer needs to firstly assemble the team that will provide the base requirements for the token to be created. This team can be a combination of Legal Firms, Deal Brokers, KYC providers, and a network of custody agents among others.\n\nOnce the issuer is ready to mint the security token, 2500 POLYX is required to sign the transaction so that the token will go live. After that process is completed then the compliance rules of the token can be set so that people who will own the token will be bound by those rules. The last process is then to distribute the token.\n\nWhen Polymath was first launched on Ethereum, it created the POLY token which is an ERC20 token. However, when it moved to Polymesh which is its own Blockchain network, it changed its token to POLYX. Issuers who owned POLY and wish to change them to POLYX so as to use the Polymesh blockchain can do so by following the steps in the video below:\n\n[![POLY to POLYX Upgrade Bridge](https://img.youtube.com/vi/zZetUxboCSI/0.jpg)](https://www.youtube.com/watch?v=zZetUxboCSI)\n\nIn order to know how to mint a security token on the Polymesh network, watch the video below:\n\n[![Token Studio on Polymesh](https://img.youtube.com/vi/TGDBulqZUM0/0.jpg)](https://www.youtube.com/watch?v=TGDBulqZUM0)\n\nAlso, Polymath supports the minting of security tokens that operate on the Ethereum Blockchain to enable people who want to use a general-purpose blockchain network. To set this up, watch the video below:\n\n[![Token Studio on Ethereum](https://img.youtube.com/vi/C0eM1GU2G04/0.jpg)](https://www.youtube.com/watch?v=C0eM1GU2G04)",
+          "title": "Polymath Token Studio"
+        }
+      ],
+      "questions": [
+        {
+          "uuid": "57c1dad7-5541-4312-a5db-19f2391a2964",
+          "type": "MultipleChoice",
+          "content": "What is Polymath used for? (Select two options)",
+          "hint": "Nohint",
+          "explanation": "Polymath is an asset tokenization platform that enables people to digitize real world assets and can mint tokens backing the assets for the purpose of getting investors or generally raising funds for projects.",
+          "answerKeys": [
+            "A",
+            "511103dc"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To raise funds for projects",
+              "key": "A"
+            },
+            {
+              "content": "To mint tokens",
+              "key": "0877fea8"
+            },
+            {
+              "content": "To digitize real-world assets",
+              "key": "511103dc"
+            },
+            {
+              "content": "To whitelist investors",
+              "key": "11c1dafa"
+            }
+          ]
+        },
+        {
+          "uuid": "d02ac3f0-055b-4513-b376-7d5c37473f52",
+          "type": "SingleChoice",
+          "content": "What is the standard for regulated assets living on the Blockchain that Polymath is powered by?",
+          "hint": "Nohint    ",
+          "explanation": "As a security token, Polymenth is powered by ERC1400 which is the standard for regulated assets living on the Blockchain.  ",
+          "answerKeys": [
+            "342d85c3"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "ERC20",
+              "key": "A"
+            },
+            {
+              "content": "ERC1400",
+              "key": "342d85c3"
+            },
+            {
+              "content": "ERC721",
+              "key": "ba58c0c8"
+            },
+            {
+              "content": "ERC1155",
+              "key": "61f14d68"
+            }
+          ]
+        },
+        {
+          "uuid": "0afc804f-e03e-473f-92c4-2a1bd06f9183",
+          "type": "SingleChoice",
+          "content": "What was Polymesh blockchain built for?",
+          "hint": "Nohint    ",
+          "explanation": "Polymath is built on the Polymesh blockchain which is a specific protocol built for handling security tokens. ",
+          "answerKeys": [
+            "b4a58e2b"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Sending and receiving cryptocurrencies",
+              "key": "A"
+            },
+            {
+              "content": "Trading DeFi tokens",
+              "key": "c1f9a1a0"
+            },
+            {
+              "content": "Low gas fees",
+              "key": "2dcccea2"
+            },
+            {
+              "content": "Managing security tokens",
+              "key": "b4a58e2b"
+            }
+          ]
+        },
+        {
+          "uuid": "03a42a34-2e10-44a3-8d67-191a85d52e34",
+          "type": "SingleChoice",
+          "content": "Which of these is NOT a use case for Polymath?",
+          "hint": "Nohint    ",
+          "explanation": "With use cases such as effective asset onboarding, compliance assurance, transfer restrictions, redundant data, source insight, transfer disable functions, asset recovery, and identity verification, and with a deeply technical team focused on making the process simpler and easier, Polymath is powering the future of security tokens.",
+          "answerKeys": [
+            "e246bae6"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Identity Verification",
+              "key": "A"
+            },
+            {
+              "content": "Asset Cloning",
+              "key": "e246bae6"
+            },
+            {
+              "content": "Asset Recovery",
+              "key": "a1515125"
+            },
+            {
+              "content": "Compliance Assurance",
+              "key": "e4f2a3e5"
+            }
+          ]
+        },
+        {
+          "uuid": "9fa7cf33-7e65-44fc-b235-0f8ff135d602",
+          "type": "SingleChoice",
+          "content": "Which of these is NOT a reason Polymesh was built on the Substrate framework?",
+          "hint": "Nohint    ",
+          "explanation": "Polymesh was built on the parity substrate framework because of its novel technology, product roadmap and fit with what Ploymath is building, community, and modularity.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Non Upgradable",
+              "key": "A"
+            },
+            {
+              "content": "Modularity",
+              "key": "eeca4e6a"
+            },
+            {
+              "content": "Future Proof Technology",
+              "key": "49ce1bb6"
+            },
+            {
+              "content": "Community",
+              "key": "dae71479"
+            }
+          ]
+        },
+        {
+          "uuid": "4f7235af-cd23-4edf-8f72-eb0364431a7c",
+          "type": "SingleChoice",
+          "content": "One of these blockchain network standards provides the flexibility required for identity verification and enforcement of compliance procedures when trading securities",
+          "hint": "Nohint    ",
+          "explanation": "ERC 1400 protocol was created for managing securities. ",
+          "answerKeys": [
+            "ce4906d9"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "ERC721",
+              "key": "A"
+            },
+            {
+              "content": "ERC20",
+              "key": "67da8488"
+            },
+            {
+              "content": "ERC1400",
+              "key": "ce4906d9"
+            },
+            {
+              "content": "ERC1155",
+              "key": "a3af7919"
+            }
+          ]
+        },
+        {
+          "uuid": "24ef4d64-67f8-430d-b1c9-c302c0d1af6e",
+          "type": "SingleChoice",
+          "content": "Which of these is a core feature of the Polymath Capital Platform?",
+          "hint": "Nohint    ",
+          "explanation": "Some of the core features of the Polymath Capital Platform highlighted are:\nCap Table Management\nCorporate Governance\nOnboarding\nInvestors’ Accreditation\nCustody\nInvestment Offerings",
+          "answerKeys": [
+            "397f96e5"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Cap Table Management",
+              "key": "A"
+            },
+            {
+              "content": "Corporate Governance",
+              "key": "348d74a4"
+            },
+            {
+              "content": "Investment Offerings",
+              "key": "8ccc95c2"
+            },
+            {
+              "content": "All of the Above",
+              "key": "397f96e5"
+            }
+          ]
+        },
+        {
+          "uuid": "38e5332c-8814-4fc7-ab9b-1f1b8a02b298",
+          "type": "SingleChoice",
+          "content": "What is the cost of reserving a token on Polymath token studio?",
+          "hint": "Nohint    ",
+          "explanation": "Reserving a token on Polymath costs 500 POLYX.",
+          "answerKeys": [
+            "b67868fd"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "500 POLY",
+              "key": "A"
+            },
+            {
+              "content": "1000 POLYX",
+              "key": "e44c2dac"
+            },
+            {
+              "content": "800 POLY",
+              "key": "e903f436"
+            },
+            {
+              "content": "500 POLYX",
+              "key": "b67868fd"
+            }
+          ]
+        }
+      ],
+      "readings": [],
+      "summaries": []
     }
-  ],
-  "topicConfig": {
-    "showExplanations": false,
-    "showHints": false
-  }
+  ]
 }
